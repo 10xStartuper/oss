@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## author: genemator
-## my blog: bsba.uz/genemator
+## my blog: genemator.me
 ##
 ## backup your app configuration
 ##

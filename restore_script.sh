@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## author: genemator
-## my blog: bsba.uz/genemator
+## my blog: genemator.me
 ##
 ## add your restore function here
 ## function restore_<your config name>
