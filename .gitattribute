@@ -1,0 +1,5 @@
+# Source files
+# ============
+
+*.sh            linguist-language=Assembly
+*.sh            linguist-language=assembly
