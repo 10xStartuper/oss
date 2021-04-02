@@ -1,7 +1,7 @@
 #!/bin/env bash
 
 ## author: genemator
-## my blog: genemator.me
+## my blog: genemator.uz
 ##
 ## use this script to install desktop environment
 ##

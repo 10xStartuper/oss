@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## author: genemator
-## my blog: genemator.me
+## my blog: genemator.uz
 ##
 ## add your backup function here
 ## function backup_<your config name>

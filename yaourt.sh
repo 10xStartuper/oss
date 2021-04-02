@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## author: genemator
-## my blog: genemator.me
+## my blog: genemator.uz
 ##
 ## use this script to check if yaourt have installed
 ##
